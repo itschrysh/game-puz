@@ -175,7 +175,7 @@ export default function ValentinesProposal() {
             exit={{ opacity: 0 }}
           >
 Thank you bunbun! I love you so much! 💕
-<p className="text-sm mt-4">Can't wait to celebrate with you! 💌</p>
+<p className="text-sm mt-4">{`Can't wait to celebrate with you! 💌`}</p>
 <p className="text-sm mt-4">Love, Chrysh</p>
             <Image
               src="/hamster_jumping.gif"
